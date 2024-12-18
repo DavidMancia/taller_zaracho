@@ -1,0 +1,24 @@
+¡Claro! Un sistema de gestión operativa para el registro de clientes en un taller mecánico como Zaracho puede ofrecer una amplia gama de funcionalidades para optimizar sus procesos y mejorar la experiencia del cliente. A continuación, te presento algunas de las funcionalidades más relevantes:
+
+Registro y Gestión de Clientes
+Ficha de cliente completa: Nombre, apellidos, dirección, teléfono, correo electrónico, historial de vehículos, etc.
+Gestión de vehículos: Registro de los vehículos del cliente (marca, modelo, año, matrícula, etc.), historial de servicios y mantenimientos.
+Seguimiento de citas: Programación, confirmación y recordatorios de citas para servicios y reparaciones.
+Historial de servicios: Registro detallado de todos los servicios realizados a cada vehículo, incluyendo piezas reemplazadas, mano de obra y costos.
+
+Gestión de Taller
+Inventario de piezas: Control del stock de repuestos y consumibles, alertas de reposición.
+Gestión de técnicos: Asignación de tareas a los técnicos, seguimiento del tiempo empleado en cada servicio.
+Generación de presupuestos: Creación de presupuestos detallados para cada servicio, con desglose de piezas y mano de obra.
+Facturación electrónica: Emisión de facturas y notas de crédito de forma rápida y eficiente.
+Reportes y análisis: Generación de informes personalizados sobre la actividad del taller, ventas, clientes más frecuentes, etc.
+
+Sistema de autenticacion
+Roles y permisos
+Usuarios
+Mecanicos
+Clientes
+Vehiculos (Proximo servicio)
+Servicios_realizados (Estado del servicio)
+Proximos_servicios
+Pagos, formas de pagos, facturas
